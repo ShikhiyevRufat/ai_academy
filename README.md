@@ -1,1 +1,1 @@
-# aI_academy
+# ai_academy
